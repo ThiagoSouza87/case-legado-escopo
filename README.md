@@ -56,3 +56,6 @@ Os números de escopo e o método são reais.
 ## Contato
 
 Thiago Souza — desenvolvedor sênior (Java, .NET, Vue)
+
+- [thiago.santos.souza87@gmail.com](mailto:thiago.santos.souza87@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/thiago-dos-santos-souza-424a9368/)
